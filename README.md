@@ -1,1 +1,1 @@
-# social-media-app
+mern blog app
